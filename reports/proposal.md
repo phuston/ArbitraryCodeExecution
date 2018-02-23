@@ -1,4 +1,4 @@
-## Exploits in C
+## Exploits in C Project Proposal
 Kai Levy and Patrick Huston | Software Systems Spring 2018
 ### Goal
 
