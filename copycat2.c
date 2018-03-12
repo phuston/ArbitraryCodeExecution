@@ -60,13 +60,13 @@ int main(int argc, char *argv[])
  */
 void copy_file(FILE *file) {
     int linecount = 0;
-    char buffer[BUFSIZ];
+    char buffer[BUFSIZ/8];
 
     while (fgets(buffer, BUFSIZ, file) != NULL) {
         if(gargs.nFlag){
             printf("%6d  ", ++linecount);
         }
-        printf(buffer);
+        printf("%s", buffer);
     }
 }
 
