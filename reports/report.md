@@ -1,6 +1,6 @@
-## Exploits in C Project Proposal
+## Exploits in C 
 Kai Levy and Patrick Huston | Software Systems Spring 2018
-### Goal
+### Project Goal
 
 In this project, we hope to explore the common methods of software exploitation in C. In specific, we want to understand the basis of how it works, what makes software vulnerable, and the steps that can be taken to ensure safety from a developer standpoint. 
 
